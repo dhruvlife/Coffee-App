@@ -27,7 +27,8 @@ This **Flutter-based Coffee App** with:
 
 ## 📷 Screenshots  
 
-<img src="https://github.com/dhruvlife/coffee-app/blob/main/assets/images/screenshot1.png" width="300">  
+![WhatsApp Image 2025-03-12 at 15 02 27_5adcbaf2](https://github.com/user-attachments/assets/09bb04b1-47c1-42d8-a804-cac78e15f77f)
+
 
 
 ---
