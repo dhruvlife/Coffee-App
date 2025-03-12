@@ -38,7 +38,7 @@ This **Flutter-based Coffee App** with:
 Total Visitors : 
 
 
-<img align="left" src="https://profile-counter.glitch.me/dhruvlife/count.svg" alt="Profile Views">
+<img align="left" src="https://profile-counter.glitch.me/Coffee-App/count.svg" alt="Profile Views">
 
 
 
